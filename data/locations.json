@@ -1,0 +1,413 @@
+[
+	{
+		"name": "Mills Reverie - Cherub Fish",
+		"category": ["Hawke's Bay"],
+		"requires": "|Hawke's Bay - Mill's Reverie| AND ( |Melee| OR |Disguises| )"
+	},
+	{
+		"name": "Finish Line - Kitchen Fish",
+		"category": ["Miami"],
+		"requires": "|Miami - Finish Line| AND |Disguises|"
+	},
+	{
+		"name": "Finish Line - Aquarium 6 Fish",
+		"category": ["Miami"],
+		"requires": "|Miami - Finish Line| AND |Guns| AND |Disguises|"
+	},
+	{
+		"name": "Finish Line - Aquarium 7 Fish",
+		"category": ["Miami"],
+		"requires": "|Miami - Finish Line| AND |Guns| AND |Disguises|"
+	},
+	{
+		"name": "Finish Line - Aquarium 12 Starfish",
+		"category": ["Miami"],
+		"requires": "|Miami - Finish Line| AND |Guns| AND |Disguises|"
+	},
+	{
+		"name": "Finish Line - Aquarium 14 Fish",
+		"category": ["Miami"],
+		"requires": "|Miami - Finish Line| AND |Guns| AND |Disguises|"
+	},
+	{
+		"name": "Silver Tongue - Aquarium 6 Fish",
+		"category": ["Miami"],
+		"requires": "|Miami - Silver Tongue| AND |Guns| AND |Disguises|"
+	},
+	{
+		"name": "Silver Tongue - Aquarium 7 Fish",
+		"category": ["Miami"],
+		"requires": "|Miami - Silver Tongue| AND |Guns| AND |Disguises|"
+	},
+	{
+		"name": "Silver Tongue - Aquarium 12 Starfish",
+		"category": ["Miami"],
+		"requires": "|Miami - Silver Tongue| AND |Guns| AND |Disguises|"
+	},
+	{
+		"name": "Silver Tongue - Aquarium 14 Fish",
+		"category": ["Miami"],
+		"requires": "|Miami - Silver Tongue| AND |Guns| AND |Disguises|"
+	},
+	{
+		"name": "Silver Tongue - Kitchen Fish",
+		"category": ["Miami"],
+		"requires": "|Miami - Silver Tongue| AND |Disguises|"
+	},
+	{
+		"name": "Chasing a Ghost - Sewer Fish",
+		"category": ["Mumbai"],
+		"requires": "|Mumbai - Chasing a Ghost|"
+	},
+	{
+		"name": "Chasing a Ghost - Dock Fish 1",
+		"category": ["Mumbai"],
+		"requires": "|Mumbai - Chasing a Ghost|"
+	},
+	{
+		"name": "Chasing a Ghost - Dock Fish 2",
+		"category": ["Mumbai"],
+		"requires": "|Mumbai - Chasing a Ghost|"
+	},
+	{
+		"name": "Chasing a Ghost - Chawl Fish",
+		"category": ["Mumbai"],
+		"requires": "|Mumbai - Chasing a Ghost|"
+	},
+	{
+		"name": "Chasing a Ghost - Trainyard Fish",
+		"category": ["Mumbai"],
+		"requires": "|Mumbai - Chasing a Ghost| AND ( ( |Lockpicks| AND |Guns| ) OR |Disguises| )"
+	},
+	{
+		"name": "Illusions of Grandeur - Sewer Fish",
+		"category": ["Mumbai"],
+		"requires": "|Mumbai - Illusions of Grandeur|"
+	},
+	{
+		"name": "Illusions of Grandeur - Dock Fish 1",
+		"category": ["Mumbai"],
+		"requires": "|Mumbai - Illusions of Grandeur|"
+	},
+	{
+		"name": "Illusions of Grandeur - Dock Fish 2",
+		"category": ["Mumbai"],
+		"requires": "|Mumbai - Illusions of Grandeur|"
+	},
+	{
+		"name": "Illusions of Grandeur - Chawl Fish",
+		"category": ["Mumbai"],
+		"requires": "|Mumbai - Illusions of Grandeur|"
+	},
+	{
+		"name": "Illusions of Grandeur - Trainyard Fish",
+		"category": ["Mumbai"],
+		"requires": "|Mumbai - Illusions of Grandeur| AND ( ( |Lockpicks| AND |Guns| ) OR |Disguises| )"
+	},
+	{
+		"name": "Ark Society - Docks Fish",
+		"category": ["Isle of Sgail"],
+		"requires": "|Isle of Sgail - Ark Society| AND |Guns|"
+	},
+	{
+		"name": "Ark Society - Kitchen Fish",
+		"category": ["Isle of Sgail"],
+		"requires": "|Isle of Sgail - Ark Society| AND |Guns| AND |Disguises|"
+	},
+	{
+		"name": "Death in the Family - Kitchen Fish 1",
+		"category": ["Dartmoor"],
+		"requires": "|Dartmoor - Death in the Family|"
+	},
+	{
+		"name": "Death in the Family - Kitchen Fish 2",
+		"category": ["Dartmoor"],
+		"requires": "|Dartmoor - Death in the Family|"
+	},
+	{
+		"name": "Garden Show - Fisherman Fish",
+		"category": ["Dartmoor"],
+		"requires": "|Dartmoor - Garden Show|"
+	},
+	{
+		"name": "Hit the Fisherman With His Own Fish",
+		"category": ["Dartmoor"],
+		"requires": "|Dartmoor - Garden Show| AND |FISH|",
+		"place_item": ["Bonus Points"]
+	},
+	{
+		"name": "The Farewell - Docks Fish",
+		"category": ["Mendoza"],
+		"requires": "|Mendoza - The Farewell| AND |Disguises|"
+	},
+	{
+		"name": "Shadows in the Water - Western Beach Fish",
+		"category": ["Ambrose Island"],
+		"requires": "|Ambrose Island - Shadows in the Water|"
+	},
+	{
+		"name": "Shadows in the Water - Stilt Village Fish",
+		"category": ["Ambrose Island"],
+		"requires": "|Ambrose Island - Shadows in the Water| AND |Lockpicks|"
+	},
+	{
+		"name": "Shadows in the Water - Stilt Village Starfish",
+		"category": ["Ambrose Island"],
+		"requires": "|Ambrose Island - Shadows in the Water|"
+	},
+	{
+		"name": "Shadows in the Water - Eastern Beach Fish",
+		"category": ["Ambrose Island"],
+		"requires": "|Ambrose Island - Shadows in the Water|"
+	},
+	{
+		"name": "Shadows in the Water - Eastern Beach Starfish",
+		"category": ["Ambrose Island"],
+		"requires": "|Ambrose Island - Shadows in the Water|"
+	},
+	{
+		"name": "Shadows in the Water - Militia Cave Starfish",
+		"category": ["Ambrose Island"],
+		"requires": "|Ambrose Island - Shadows in the Water| AND |Disguises| AND |Guns|"
+	},
+	{
+		"name": "Viktor Novikov",
+		"category": ["Paris"],
+		"requires": "|H1 Missions|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Dalia Margolis",
+		"category": ["Paris"],
+		"requires": "|H1 Missions|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Silvio Caruso",
+		"category": ["Sapienza"],
+		"requires": "|H1 Missions|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Francesca De Santis",
+		"category": ["Sapienza"],
+		"requires": "|H1 Missions|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Reza Zaydan",
+		"category": ["Marrakesh"],
+		"requires": "|H1 Missions|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Claus Hugo Strandberg",
+		"category": ["Marrakesh"],
+		"requires": "|H1 Missions|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Jordan Cross",
+		"category": ["Bangkok"],
+		"requires": "|H1 Missions|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Ken Morgan",
+		"category": ["Bangkok"],
+		"requires": "|H1 Missions|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Sean Rose",
+		"category": ["Colorado"],
+		"requires": "|H1 Missions|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Penelope Graves",
+		"category": ["Colorado"],
+		"requires": "|H1 Missions|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Ezra Berg",
+		"category": ["Colorado"],
+		"requires": "|H1 Missions|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Maya Parvati",
+		"category": ["Colorado"],
+		"requires": "|H1 Missions|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Yuki Yamazaki",
+		"category": ["Hokkaido"],
+		"requires": "|H1 Missions|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Alma Reynard",
+		"category": ["Hawke's Bay"],
+		"requires": "|H2 Miscellaneous|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Sierra Knox",
+		"category": ["Miami"],
+		"requires": "|Miami - Finish Line|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Robert Knox",
+		"category": ["Miami"],
+		"requires": "|Miami - Finish Line|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Rico Delgado",
+		"category": ["Santa Fortuna"],
+		"requires": "|H2 Miscellaneous|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Jorge Franco",
+		"category": ["Santa Fortuna"],
+		"requires": "|H2 Miscellaneous|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Andrea Martinez",
+		"category": ["Santa Fortuna"],
+		"requires": "|H2 Miscellaneous|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Dawood Rangan",
+		"category": ["Mumbai"],
+		"requires": "|Mumbai - Chasing a Ghost|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Vanya Shah",
+		"category": ["Mumbai"],
+		"requires": "|Mumbai - Chasing a Ghost|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "The Maelstrom",
+		"category": ["Mumbai"],
+		"requires": "|Mumbai - Chasing a Ghost|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Janus",
+		"category": ["Whittleton Creek"],
+		"requires": "|H2 Miscellaneous|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Nolan Cassidy",
+		"category": ["Whittleton Creek"],
+		"requires": "|H2 Miscellaneous|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Zoe Washington",
+		"category": ["Isle of Sgail"],
+		"requires": "|Isle of Sgail - Ark Society|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Sophia Washington",
+		"category": ["Isle of Sgail"],
+		"requires": "|Isle of Sgail - Ark Society|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Athena Savalas",
+		"category": ["New York"],
+		"requires": "|H2 Miscellaneous|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Tyson Williams",
+		"category": ["Haven Island"],
+		"requires": "|H2 Miscellaneous|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Steven Bradley",
+		"category": ["Haven Island"],
+		"requires": "|H2 Miscellaneous|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Ljudmila Vetrova",
+		"category": ["Haven Island"],
+		"requires": "|H2 Miscellaneous|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Carl Ingram",
+		"category": ["Dubai"],
+		"requires": "|H3 Miscellaneous|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Marcus Stuyvesant",
+		"category": ["Dubai"],
+		"requires": "|H3 Miscellaneous|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Alexa Carlisle",
+		"category": ["Dartmoor"],
+		"requires": "|Dartmoor - Death in the Family|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Hush",
+		"category": ["Chongqing"],
+		"requires": "|H3 Miscellaneous|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Imogen Royce",
+		"category": ["Chongqing"],
+		"requires": "|H3 Miscellaneous|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Tamara Vidal",
+		"category": ["Mendoza"],
+		"requires": "|Mendoza - The Farewell|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Don Archibald Yates",
+		"category": ["Mendoza"],
+		"requires": "|Mendoza - The Farewell|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Noel Crest",
+		"category": ["Ambrose Island"],
+		"requires": "|Ambrose Island - Shadows in the Water|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "Sinhi 'Akka' Venthan",
+		"category": ["Ambrose Island"],
+		"requires": "|Ambrose Island - Shadows in the Water|",
+		"place_item": ["Target Down"]
+	},
+	{
+		"name": "All Targets Down, Mission Accomplished",
+		"category": ["Goal"],
+		"requires": "|H1 Missions| AND |H2 Miscellaneous| AND |Miami - Finish Line| AND |Mumbai - Chasing a Ghost| AND |Isle of Sgail - Ark Society| AND |H3 Miscellaneous| AND |Dartmoor - Death in the Family| AND |Mendoza - The Farewell| AND |Ambrose Island - Shadows in the Water| AND |Guns| AND |Melee| AND |Lockpicks| AND |Card Hackers| AND |Disguises| AND |FISH| AND |Distractions|",
+		"victory": "true"
+	}
+]

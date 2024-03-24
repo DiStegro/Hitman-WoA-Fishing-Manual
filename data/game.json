@@ -1,0 +1,17 @@
+{
+	"game": "HitmanWoAFishing",
+	"creator": "DiStegro",
+	"filler_item_name": "Explosive Rubber Fish",
+	
+	"starting_items": [
+		{
+			"item_categories": ["Starters"],
+			"random": 1
+		},
+		{
+			"items": ["Distractions"]
+		}
+	]
+	
+	
+}

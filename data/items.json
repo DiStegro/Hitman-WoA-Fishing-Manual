@@ -1,0 +1,134 @@
+[
+	{
+		"count":1,
+		"name": "H1 Missions",
+		"category": ["H1 Missions"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "H2 Miscellaneous",
+		"category": ["H2 Missions"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Hawke's Bay - Mill's Reverie",
+		"category": ["H2 Missions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Miami - Finish Line",
+		"category": ["H2 Missions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Miami - Silver Tongue",
+		"category": ["H2 Missions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mumbai - Chasing a Ghost",
+		"category": ["H2 Missions","Starters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mumbai - Illusions of Grandeur",
+		"category": ["H2 Missions","Starters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Isle of Sgail - Ark Society",
+		"category": ["H2 Missions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "H3 Miscellaneous",
+		"category": ["H3 Missions"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Dartmoor - Death in the Family",
+		"category": ["H3 Missions", "Starters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Dartmoor - Garden Show",
+		"category": ["H3 Missions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mendoza - The Farewell",
+		"category": ["H3 Missions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ambrose Island - Shadows in the Water",
+		"category": ["H3 Missions", "Starters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Guns",
+		"category": ["Tools"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Melee",
+		"category": ["Tools"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lockpicks",
+		"category": ["Tools"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Card Hackers",
+		"category": ["Tools"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Disguises",
+		"category": ["Tools"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "FISH",
+		"category": ["Tools"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bonus Points",
+		"category": ["Tools"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Distractions",
+		"category": ["Tools"],
+		"progression": true
+	},
+	{
+		"count": "39",
+		"name": "Target Down",
+		"category": ["Diana Burnwood"],
+		"useful": true
+	}
+]
